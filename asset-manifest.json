@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stroienergi/static/css/main.758231f8.css",
-    "main.js": "/stroienergi/static/js/main.3774e98a.js",
+    "main.js": "/stroienergi/static/js/main.02b33abb.js",
     "static/media/фон1.jpg": "/stroienergi/static/media/фон1.92a1aa97fa29bd5b98f2.jpg",
     "static/media/фон2.jpg": "/stroienergi/static/media/фон2.99adaffa7f8ceed04231.jpg",
     "index.html": "/stroienergi/index.html",
     "main.758231f8.css.map": "/stroienergi/static/css/main.758231f8.css.map",
-    "main.3774e98a.js.map": "/stroienergi/static/js/main.3774e98a.js.map"
+    "main.02b33abb.js.map": "/stroienergi/static/js/main.02b33abb.js.map"
   },
   "entrypoints": [
     "static/css/main.758231f8.css",
-    "static/js/main.3774e98a.js"
+    "static/js/main.02b33abb.js"
   ]
 }
