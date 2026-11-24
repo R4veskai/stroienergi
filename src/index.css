@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 16px;
+  margin: 0 auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #fff;
+  background: #252525;
+  margin: 0;
+  padding-top: 80px; 
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+}
+.btn {
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 700;
+  border: none;
+}
+
+.btn-primary {
+  background: #ffc400;
+  color: #000;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 64px;
+  }
+}
